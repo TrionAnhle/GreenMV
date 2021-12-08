@@ -1,0 +1,9 @@
+.body-container{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color:black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
